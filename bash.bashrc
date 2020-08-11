@@ -1,9 +1,9 @@
 
 
-echo "youtube : Din-zUgex95"
+echo "youtube : ANKER PRODUCTION"
 
 
 
 
       echo "     GAK SUKA   "
-      echo "  TERSERAH GW ASUUU  "
+      echo "  TERSERAH GW TOLOL  "
